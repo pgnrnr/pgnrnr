@@ -1,7 +1,7 @@
 # Hi there, I'm Pinar Guner 👋
 
 🎓 PhD Researcher | Quantitative Genetics · Genomics · Bioinformatics  
-🌱 Investigating somatic dwarfism in *Pinus taeda* using GWAS, QTL mapping, RNA-Seq, and Sanger validation  
+🌱 Investigating somatic mutations in *Pinus taeda* using GWAS, QTL mapping, RNA-Seq, and Sanger validation  
 🔬 Graduate Research Assistant at NC State University  
 📊 Tools: R, OneMap, R/qtl, ASReml, SnapGene
 
@@ -11,10 +11,10 @@
 ---
 
 💡 **Recent Projects**  
-- GWAS & QTL Mapping of Dwarfism in Loblolly Pine  
+- GWAS & QTL Mapping  
 - RNA-Seq Analysis of Hormone Pathways  
-- GID1/SLY1 Gene Characterization  
-- Marker Development for Fusiform Rust Resistance  
+- GID1/SLY1 Gene Characterization - Sanger Sequencing
+- Marker (KASP) Development for Fusiform Rust Resistance  
 
 ---
 
