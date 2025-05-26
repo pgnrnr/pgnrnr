@@ -20,4 +20,4 @@
 
 💬 Feel free to explore my repositories or reach out for collaboration!
 
-> *"Science is not only a disciple of reason but, also, one of romance and passion."* — Stephen Hawking
+> *"Every carbon atom in every living thing on the planet was produced in the heart of a dying star."* — Brian Cox
