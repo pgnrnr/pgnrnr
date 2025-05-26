@@ -1,11 +1,12 @@
 # Hi there, I'm Pinar Guner 👋
 
 🎓 PhD Researcher | Quantitative Genetics · Genomics · Bioinformatics  
-🌱 Focused on identifying mutations underlying dwarfism in *Pinus taeda* using GWAS, QTL, RNA-Seq, and Sanger validation  
+🌱 Investigating somatic dwarfism in *Pinus taeda* using GWAS, QTL mapping, RNA-Seq, and Sanger validation  
 🔬 Graduate Research Assistant at NC State University  
-📊 Tools: R, Python, GAPIT, ASReml, SnapGene, IGV  
+📊 Tools: R, OneMap, R/qtl, ASReml, SnapGene
 
-📄 ORCID: [0000-0002-2739-0614](https://orcid.org/0000-0002-2739-0614)
+📄 ORCID: [0000-0002-2739-0614](https://orcid.org/0000-0002-2739-0614)  
+📬 Email: [gunerpinar@icloud.com](mailto:gunerpinar@icloud.com)
 
 ---
 
@@ -17,6 +18,6 @@
 
 ---
 
-💬 Feel free to explore my repositories or connect with me for collaboration!
+💬 Feel free to explore my repositories or reach out for collaboration!
 
-> "Science is not only a disciple of reason but, also, one of romance and passion." — Stephen Hawking
+> *"Science is not only a disciple of reason but, also, one of romance and passion."* — Stephen Hawking
