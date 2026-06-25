@@ -25,8 +25,8 @@ Computing: Linux, HPC environments, Git/GitHub
 
 ## Featured repositories
 
-🧬 dwarfism
-Computational analyses supporting the genetic dissection of dwarfism in Pinus taeda, including GWAS, QTL mapping, genomic prediction, and visualization workflows.
+# 🧬 dwarfism
+# Reproducible R workflows supporting the genetic dissection of dwarfism in Pinus taeda, including GWAS, QTL mapping, genomic prediction, and visualization.
 
 (More repositories and analysis pipelines will be added as projects are prepared for public release.)
 
