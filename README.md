@@ -1,23 +1,36 @@
-# Hi there, I'm Pinar Guner 👋
+Hi, I'm Pinar Guner 👋
 
-🎓 PhD Researcher | Quantitative Genetics · Genomics · Bioinformatics  
-🌱 Investigating somatic mutations in *Pinus taeda* using GWAS, QTL mapping, RNA-Seq, and Sanger validation  
-🔬 Graduate Research Assistant at NC State University  
-📊 Tools: R, OneMap, R/qtl, ASReml, SnapGene
+🎓 Ph.D. Candidate in Forestry and Environmental Resources at North Carolina State University
 
-📄 ORCID: [0000-0002-2739-0614](https://orcid.org/0000-0002-2739-0614)  
-📬 Email: [gunerpinar@icloud.com](mailto:gunerpinar@icloud.com)
+My research combines quantitative genetics, statistical genomics, and computational biology to investigate the genetic basis of complex traits in plants. I enjoy developing reproducible analytical workflows and integrating statistical methods with biological interpretation.
 
----
+Research interests
+Quantitative genetics
+Statistical genomics
+GWAS and QTL mapping
+Genomic prediction
+Haplotype phasing and recombination analysis
+Functional genomics
+Bioinformatics
+Tools & Technologies
 
-💡 **Recent Projects**  
-- GWAS & QTL Mapping  
-- RNA-Seq Analysis of Hormone Pathways  
-- GID1/SLY1 Gene Characterization - Sanger Sequencing
-- Marker (KASP) Development for Fusiform Rust Resistance  
+Programming: R, Python, Bash
 
----
+Statistical Genetics: ASReml-R, Echidna, GAPIT, rrBLUP, R/qtl, OneMap
 
-💬 Feel free to explore my repositories or reach out for collaboration!
+Bioinformatics: Trinity, DESeq2, BLAST, SnapGene, Primer3, FastPCR
 
-> *"Every carbon atom in every living thing on the planet was produced in the heart of a dying star."* — Brian Cox
+Computing: Linux, HPC environments, Git/GitHub
+
+Featured repositories
+
+🧬 dwarfism
+Computational analyses supporting the genetic dissection of dwarfism in Pinus taeda, including GWAS, QTL mapping, genomic prediction, and visualization workflows.
+
+(More repositories and analysis pipelines will be added as projects are prepared for public release.)
+
+Connect with me
+
+📄 ORCID: https://orcid.org/0000-0002-2739-0614
+
+📧 Email: pguner@ncsu.edu
