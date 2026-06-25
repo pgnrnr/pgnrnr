@@ -18,7 +18,7 @@ My research combines quantitative genetics, statistical genomics, and computatio
   
 ## Tools & Technologies
 
-Programming: R, Python, Bash
+Programming & Computing: R, Python, Bash, Linux, HPC
 Statistical Genetics: ASReml-R, Echidna, GAPIT, rrBLUP, R/qtl, MapPoly
 Bioinformatics: Trinity, DESeq2, BLAST, SnapGene, Primer3, FastPCR
 Computing: Linux, HPC environments, Git/GitHub
