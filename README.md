@@ -16,7 +16,7 @@ Tools & Technologies
 
 Programming: R, Python, Bash
 
-Statistical Genetics: ASReml-R, Echidna, GAPIT, rrBLUP, R/qtl, OneMap
+Statistical Genetics: ASReml-R, Echidna, GAPIT, rrBLUP, R/qtl, MapPoly
 
 Bioinformatics: Trinity, DESeq2, BLAST, SnapGene, Primer3, FastPCR
 
