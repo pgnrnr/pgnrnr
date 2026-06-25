@@ -2,7 +2,7 @@
 
 🎓 Ph.D. Candidate at North Carolina State University with a background in Bioengineering and Quantitative Genetics and Statistical Genomics
 
-My research combines quantitative genetics, statistical genomics, and computational biology to investigate the genetic basis of complex traits and develop reproducible analytical workflows for biological data.
+My research combines quantitative genetics, statistical genomics, and computational biology to investigate the genetic basis of complex traits and develop reproducible computational workflows for biological data.
 
 ## Research interests
 
@@ -18,10 +18,15 @@ My research combines quantitative genetics, statistical genomics, and computatio
   
 ## Tools & Technologies
 
-Programming & Computing: R, Python, Bash, Linux, HPC
-Statistical Genetics: ASReml-R, Echidna, GAPIT, rrBLUP, R/qtl, MapPoly
-Bioinformatics: Trinity, DESeq2, BLAST, SnapGene, Primer3, FastPCR
-Computing: Linux, HPC environments, Git/GitHub
+**Programming:** R, Python, Bash
+
+**Statistical Genetics:** ASReml-R, Echidna, GAPIT, rrBLUP, R/qtl, MAPpoly
+
+**Bioinformatics:** Trinity, DESeq2, BLAST, SnapGene, Primer3, FastPCR
+
+**Computing:** Linux, HPC environments, Git/GitHub
+
+
 
 ## Featured repositories
 
