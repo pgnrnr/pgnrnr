@@ -1,4 +1,4 @@
-Hi, I'm Pinar Guner 👋
+### Hi, I'm Pinar Guner 👋
 
 🎓 Ph.D. Candidate at North Carolina State University with a background in Bioengineering and Quantitative Genetics and Statistical Genomics
 
