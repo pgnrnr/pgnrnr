@@ -1,6 +1,6 @@
 Hi, I'm Pinar Guner 👋
 
-🎓 Ph.D. Candidate in Forestry and Environmental Resources at North Carolina State University
+🎓 Ph.D. Candidate at North Carolina State University with a background in Bioengineering and Quantitative Genetics
 
 My research combines quantitative genetics, statistical genomics, and computational biology to investigate the genetic basis of complex traits in plants. I enjoy developing reproducible analytical workflows and integrating statistical methods with biological interpretation.
 
